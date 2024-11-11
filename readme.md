@@ -1,5 +1,5 @@
-# Three.js Journey
-
+# Three.js Light
+https://three-js-ights.vercel.app/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
